@@ -60,6 +60,9 @@ background-color: grey;
     border-radius: 4px;
     border: 1px solid #8e8f99;
     align-items: baseline;
+
+}
+.container_two {
     margin-right: 120px;
 
 }
