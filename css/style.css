@@ -41,7 +41,7 @@ div {
 .icon_:hover {
     background-color: #404BBF;
 }
-..icon_:focus {
+.icon_:focus {
     background-color: #404BBF;
 }
 .icon_one {
@@ -55,6 +55,7 @@ div {
     background-color: #f4f4fd;
     border-radius: 4px;
     border: 1px solid #8e8f99;
+    margin-bottom: 8px;
 }
 .container {
     width: 1158px;
@@ -120,7 +121,7 @@ div {
     padding-top: 120px;
     padding-bottom: 120px;
     padding: 188px 0;
-    background-image: linear-gradient(rgba(46, 47, 466, 0.7), rgba(46, 47, 66, 0.7), url(../images/people-office\ 1.jpg));
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7), url(../images/people-office\ 1.jpg));
     max-width: 1440px;
     background-repeat: no-repeat;
     background-position: center;
